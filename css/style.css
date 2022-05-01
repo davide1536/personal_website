@@ -1,0 +1,58 @@
+body{
+    background-color: #01012b;
+    font-family: Ubuntu Mono;
+}
+#paragraph {
+    color: #fd04fd;
+    font-size: 16px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+.title{
+    color: #00b3fe;
+}
+.page{
+    display: block;
+    display: inline-block;
+    width: 700px;
+    margin-left: 30%;
+    margin-top: 5%;
+
+}
+.navigation{
+    float: left;
+    margin-top: 5%;
+    width: 7%;
+}
+
+#figlet{
+    color:#00b3fe
+}
+.underline {
+    color:#defe47;
+}
+.topnav {
+    background-color: #01012b;
+    overflow: hidden;
+   
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #fd04fd;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    color: #defe47;
+  }
+  
