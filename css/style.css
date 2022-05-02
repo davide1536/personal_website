@@ -55,4 +55,20 @@ body{
   .topnav a:hover {
     color: #defe47;
   }
+  a{
+    color: #fd04fd;
+  }
   
+  a:hover {
+    color: #defe47;
+  }
+  li{
+    color: #fd04fd;
+    font-size: 16px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px;
+    text-align: justify;
+    text-justify: inter-word;
+  }
