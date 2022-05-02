@@ -76,6 +76,7 @@ body{
     .page { width:100%; 
       display: block;
     display: inline-block;
+    margin :auto;
           } 
     .navigation {
       width: 30%;
