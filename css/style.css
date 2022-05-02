@@ -74,6 +74,8 @@ body{
 
 @media screen and (max-width: 1000px) {
     .page { width:100%; 
+      display: block;
+    display: inline-block;
           } 
     .navigation {
       width: 30%;
